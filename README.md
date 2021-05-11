@@ -2,20 +2,29 @@
   <img src="logo" alt="SZEMMALI Logo" />
 </h1>
 
-# Project Name [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
-> The global project goal
+# GitOps Task [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#)
+> This project aim to deploy minukube cluster on local machine next prepare Continuous delivery with FluxCD, Continuous Monitoring with Prometheus + Grafana and finally we deploy hello-world app based on node and mongodb  
 
 # Project Overview
 
 ### `a- Description`
+This project aim to deploy minukube cluster on local machine next prepare Continuous delivery with FluxCD, Continuous Monitoring with Prometheus + Grafana and finally we deploy hello-world app based on node and mongodb  
 
 ### `b- Features`
-1. [ 👍 Feature 001. ]
-2. [ 👍 Feature 002. ]
-3. [ 👍 Feature 003. ]
-X. [ 👍 Feature 00x. ]
+1. [ 👍 Deploy Minikube Cluster]
+2. [ 👍 Install and Configure FluxCD on Minikube cluster. ]
+3. [ 👍 Prepare and Deploy App with Node + MongoDB on Minikube cluster. ]
+4. [ 👍 Install and Configure Continuous Monitoring (Prometheus + Grafana) on Minikube cluster. ]
 
 ### `c- Technologies`
+1. Minikube
+2. FluxCD
+3. Node
+4. MongoDB
+5. Prometheus
+6. Grafana
+7. Ansible
+8. Git
 
 # Getting started
 
@@ -33,15 +42,6 @@ X. [ 👍 Feature 00x. ]
 
 
 # How to use it?
-
-### `a- API Specification`
-| Method | URI    | Name   | Action | Middleware | Map To |  
-| ------ | ------ | ------ | ------ | ------     | ------ | 
-| GET   | cell   | cell   | cell   | cell       | cell   |
-| POST   | cell   | cell   | cell   | cell       | cell   |
-| PUT   | cell   | cell   | cell   | cell       | cell   |
-| DELETE   | cell   | cell   | cell   | cell       | cell   |
-| X   | cell   | cell   | cell   | cell       | cell   |
 
 ### `b- Usage`
 
